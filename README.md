@@ -1,7 +1,6 @@
 # Employee-Tracker
 
 ## Description
-
 This is a command line program that keeps tracks of employees.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
