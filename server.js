@@ -9,9 +9,9 @@ const { type } = require("os");
 const connection = new Pool(
     {
       // Enter PostgreSQL username
-      user: "postgres",
+      user: "",
       // Enter PostgreSQL password
-      password: "Daxter20!",
+      password: "",
       host: "127.0.0.1",
       database: "employeetracker_dp",
     },
